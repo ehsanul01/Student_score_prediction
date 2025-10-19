@@ -77,10 +77,3 @@ Output example:
 
 ---
 
-##  Optional Enhancements
-
-| Feature | Description |
-|----------|-------------|
-| Polynomial regression | Add nonlinear trend with `PolynomialFeatures`. |
-| Streamlit UI | Create a slider-based web app for predictions. |
-| Model persistence | Save model with `joblib.dump()` and reload later. |
