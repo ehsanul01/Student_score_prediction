@@ -2,7 +2,7 @@
 
 A small machine learning project that predicts a student's final exam score based on the number of hours studied, using **Linear Regression**.
 
----
+--- 
 
 ##  Project Structure
 ```
